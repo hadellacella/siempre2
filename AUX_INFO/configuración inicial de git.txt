@@ -1,0 +1,21 @@
+Usuario@DESKTOP-VND6T5M MINGW64 /
+$ git --version
+git version 2.35.1.windows.2
+
+Usuario@DESKTOP-VND6T5M MINGW64 /
+$ git config --global user.name "Hernan Della Cella"
+
+Usuario@DESKTOP-VND6T5M MINGW64 /
+$ git config --global user.email hadellacella@gmail.com
+
+Usuario@DESKTOP-VND6T5M MINGW64 /
+$ git config --global core.editor "code --wait"
+
+Usuario@DESKTOP-VND6T5M MINGW64 /
+$ git config --global -e
+
+Usuario@DESKTOP-VND6T5M MINGW64 /
+$  git config --global core.autocrlf true
+
+Usuario@DESKTOP-VND6T5M MINGW64 /
+$
